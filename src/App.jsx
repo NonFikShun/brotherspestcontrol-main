@@ -36,7 +36,7 @@ export default function App() {
               <img 
                 src="logo.png"
                alt="Brothers Pest Control Logo"
-                className="w-10 h-10 object-cover rounded-lg"
+                className="h-10 object-contain"
               />
               <span className="font-bold text-lg text-slate-900">Brothers Pest Control</span>
             </div>
