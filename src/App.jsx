@@ -33,10 +33,11 @@ export default function App() {
           <div className="flex justify-between items-center h-16">
             {/* Logo */}
             <div className="flex items-center gap-2">
-              <div className="w-10 h-10 bg-gradient-to-br from-emerald-600 to-emerald-700 rounded-lg flex items-center justify-center text-white font-bold text-lg">
-                B
-              </div>
-              <span className="font-bold text-lg text-slate-900">Brothers Pest Control</span>
+              <img
+                src="/logo.png"
+                alt="Brothers Pest Control Logo"
+                className="w-10 h-10 object-cover rounded-lg"
+              />
             </div>
 
             {/* Desktop Nav */}
