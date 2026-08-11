@@ -34,7 +34,7 @@ export default function App() {
             {/* Logo */}
               <div className="flex items-center gap-2">
               <img 
-                src="/logo.png"
+                src="logo.png"
                alt="Brothers Pest Control Logo"
                 className="w-10 h-10 object-cover rounded-lg"
               />
