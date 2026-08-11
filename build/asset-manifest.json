@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/brotherspestcontrolllc/static/css/main.6e14c3eb.css",
-    "main.js": "/brotherspestcontrolllc/static/js/main.3105b468.js",
+    "main.css": "/brotherspestcontrolllc/static/css/main.821b38de.css",
+    "main.js": "/brotherspestcontrolllc/static/js/main.f32a877c.js",
     "index.html": "/brotherspestcontrolllc/index.html",
-    "main.6e14c3eb.css.map": "/brotherspestcontrolllc/static/css/main.6e14c3eb.css.map",
-    "main.3105b468.js.map": "/brotherspestcontrolllc/static/js/main.3105b468.js.map"
+    "main.821b38de.css.map": "/brotherspestcontrolllc/static/css/main.821b38de.css.map",
+    "main.f32a877c.js.map": "/brotherspestcontrolllc/static/js/main.f32a877c.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e14c3eb.css",
-    "static/js/main.3105b468.js"
+    "static/css/main.821b38de.css",
+    "static/js/main.f32a877c.js"
   ]
 }
