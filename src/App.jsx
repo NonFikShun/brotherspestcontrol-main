@@ -82,7 +82,7 @@ export default function App() {
             Honest, reliable, and effective pest control solutions. Licensed and insured in Georgia and South Carolina.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a href="tel:8032002033" className="bg-emerald-500 hover:bg-emerald-600 text-white px-8 py-3 rounded-lg font-bold text-lg transition-colors">
+            <a href="https://portal.gorilladesk.com/brospestcontrol/booking?fbclid=IwY2xjawTnX89wZG9mBWV4dG4DYWVtAjEwAGJyaWQRMUFJbFFKTzVnUlVubElSN3FzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEewezlgg4vY1GfRL_hwmaiOZm5tj9zatPW8vrMeHS6EONmKB9_aHTJDhF3_zY_aem_PuyCdJYUeGN5oBeG-N2Fog" className="bg-emerald-500 hover:bg-emerald-600 text-white px-8 py-3 rounded-lg font-bold text-lg transition-colors">
               Schedule Service
             </a>
             <a href="#services" className="border-2 border-emerald-300 hover:bg-emerald-700 text-emerald-50 px-8 py-3 rounded-lg font-bold text-lg transition-colors">
